@@ -5,5 +5,7 @@
 int main()
 {
 	printf("first push repository");
+	printf("first push repository");
+	printf("first push repository");
 	return 0;
 }
