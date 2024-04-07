@@ -44,3 +44,23 @@
 GTA|299|90|75%
 FIFA23|299|89|89%
 原神|299|98|20%
+
+## 代码片段
+```c
+int main()
+```
+```bash
+   git add filename
+```
+```cpp
+   int main();
+```
+```python
+   print();
+```
+```java
+   system.print();
+```
+## 插入图片和链接
+[bilibili弹幕网](https://www.bilibili.com "点击进入哔站")<br>
+![壁纸图片](https://postimg.cc/G4zGmM3L "嘻嘻")
