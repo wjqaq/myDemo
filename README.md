@@ -63,4 +63,6 @@ int main()
 ```
 ## 插入图片和链接
 [bilibili弹幕网](https://www.bilibili.com "点击进入哔站")<br>
-[![3.jpg](https://i.postimg.cc/VNPR4T3C/3.jpg)](https://postimg.cc/G4zGmM3L)
+[![3.jpg](https://i.postimg.cc/VNPR4T3C/3.jpg)](https://postimg.cc/G4zGmM3L)<br>
+[3.jpg](https://postimg.cc/G4zGmM3L)<br>
+![1.png](https://postimg.cc/fSdxbyct)<br>
